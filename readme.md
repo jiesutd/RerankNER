@@ -10,10 +10,9 @@ where
 
 Data format
 =======
-Generate the nbest results using neural BI-LSTM-CRF at [NbestNER](https://github.com/jiesutd/LasagneNLP).
-Generate the nbest results using discrete CRF model at [CRF++](https://taku910.github.io/crfpp/)
+Generate the nbest results using neural BI-LSTM-CRF at [NbestNER](https://github.com/jiesutd/LasagneNLP).   
+Generate the nbest results using discrete CRF model at [CRF++](https://taku910.github.io/crfpp/)   
 Data format follow the [sample data](/data/)
-
 
 
 Folder
@@ -32,3 +31,8 @@ Cite:
      booktitle = {Proceedings of RANLP},
      year={2017}  
     }  
+
+
+Version
+=========
+2017-April-4: init version
